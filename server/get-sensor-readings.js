@@ -12,4 +12,4 @@ const getSensorReadings = (callback) => {
     callback(null, temperature, humidity)
   })
 }
-module.exports = getSensorReadings
+module.exports = 	getSensorReadings
