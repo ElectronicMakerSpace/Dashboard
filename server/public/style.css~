@@ -16,7 +16,7 @@ body{
 	box-shadow:0px 0px 3px -1px rgba(100,100,100,0.75);
 }
 .temperature{
-	background-color: #D30404
+	background-color: #1ADEAD
 }
 .humidity{
 	background-color: #2E9AFE
@@ -30,7 +30,8 @@ f	ont-size: 1.2em;
 header {
 	text-align: center;
 	font-size: 2em;
-	padding: 15px;
+	padding: 16px;
 	box-shadow:0px 3px 3px -1px rgba(0,0,0,0.75);
-	background-color: #efebe9;
+	background-color: #38A2E9;
+	font-weight: bold;
 }
